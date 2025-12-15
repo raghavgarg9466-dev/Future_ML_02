@@ -110,5 +110,4 @@ Deploy the dashboard on cloud platforms like Heroku or AWS.
 
 📬 Contact with Me 
 
-
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/raghav-garg-9b85b5379/
